@@ -1,9 +1,11 @@
+
 require('chromedriver');
 const assert = require('assert');
 const {Builder, Key, By, until} = require('selenium-webdriver');
-jest.setTimeout(300000);
+
 
 describe('AGREGAR AL CARRITO SIN INICIAR SESIÓN', function() {
+    jest.setTimeout(300000);
     let driver
     let vars
     beforeEach(async function() {
