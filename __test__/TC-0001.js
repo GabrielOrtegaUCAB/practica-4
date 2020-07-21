@@ -1,10 +1,9 @@
-
 require('chromedriver');
 const assert = require('assert');
 const {Builder, Key, By, until} = require('selenium-webdriver');
 
 
-describe('AGREGAR AL CARRITO SIN INICIAR SESIÓN', function() {
+describe('TC-0001', function() {
     jest.setTimeout(300000);
     let driver
     let vars
@@ -16,6 +15,7 @@ describe('AGREGAR AL CARRITO SIN INICIAR SESIÓN', function() {
         await driver.quit();
     })
     it('AGREGAR AL CARRITO SIN INICIAR SESIÓN', async function() {
+        await driver.manage().window().maximize();
         await driver.get("https://buhocenter.herokuapp.com/home")
         await driver.wait(until.elementLocated(By.css(".fa-tv")), 30000)
         await driver.findElement(By.css(".fa-tv")).click()

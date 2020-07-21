@@ -43,14 +43,14 @@ describe('TC-0002', function() {
           const elements = await driver.findElements(By.css(".v-snack__content"))
           assert(elements.length)
         }*/
-        await driver.wait(until.elementLocated(By.css(".pr-4 .v-icon")), 30000)
-        await driver.findElement(By.css(".pr-4 .v-icon")).click()
+        /*await driver.wait(until.elementLocated(By.css(".pr-4 .v-icon")), 30000)
+        await driver.findElement(By.css(".pr-4 .v-icon")).click()*/
         /*{
           const elements = await driver.findElements(By.css(".cart-empty"))
           assert(!elements.length)
         }*/
-        await driver.wait(until.elementLocated(By.css(".ml-3")), 30000)
-        await driver.findElement(By.css(".ml-3")).click()
+        /*await driver.wait(until.elementLocated(By.css(".ml-3")), 30000)
+        await driver.findElement(By.css(".ml-3")).click()*/
         await driver.wait(until.elementLocated(By.css(".text-xs-center > .v-btn")), 30000)
         await driver.findElement(By.css(".text-xs-center > .v-btn")).click()
         await driver.wait(until.elementLocated(By.css(".v-btn--contained:nth-child(2) > .v-btn__content")), 30000)
