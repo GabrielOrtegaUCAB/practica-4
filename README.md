@@ -1,4 +1,4 @@
-# Practica-4
+# Actividad 4 - Desarrollo de Software
 
 # Autores
 
@@ -10,34 +10,30 @@
 
 ![Logo-completo](https://user-images.githubusercontent.com/44983658/82739421-64d46c00-9d0d-11ea-87ea-c8c1d27f2a21.png)
 
-## Suite de pruebas del carrito
+## Suite de Pruebas
 
-  En este repositorio se encuentra una suite de pruebas correspondientes al Ecommerce Buhocenter, desplegado aca[https://buhocenter.herokuapp.com/home] , la suite se encarga de probar todas las funcionalidades correspondientes a el carrito, para garantizar su correcto funcionamiento.
-
-##  Documento contentivo de los escenarios de prueba
-
-  El documento se encuentra aca(agregar ruta aqui) , en este documento se expresan el método de validación adoptado para considerar que una funcionalidad cumple con lo expuesto en los criterios de aceptación.
+En este repositorio se encuentra una suite de pruebas correspondientes al sitio de comercio en línea, [Buhocener](https://buhocenter.herokuapp.com/home). Este conjunto de pruebas, fueron diseñadas de acuerdo al [Plan de Pruebas](https://docs.google.com/document/d/12JXOm_qW_PXd4k49XiwlUN-Dtr4KdOyQ3y_pTP_9mS0/edit?usp=sharing), y son ejecutadas haciendo uso de [Jest](https://jestjs.io/), y el contenido de las pruebas fue generado gracias a la herramienta [Selenium](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
   
-## Como usar?
+## ¿Cómo empezar?
 
-clone el repositorio, y ubiquese en la carpeta "practica-4" , justo alli, habra la consola y ejecute:
+Primero es necesario clonar el repositorio. Posterior a esto, ubíquese en la carpeta "practica-4", y en la consola ejecute el siguiente comando:
 
 ```bash
 $ npm install
 ```
 
-para ejecutar las pruebas realice 
+Una vez instaladas las dependencias, proceda con la ejecución de las pruebas. Para esto, ejecute el siguiente comando:
 
 ```bash
 $ npm run test
 ```
 
-Cada prueba sera desarrollada en una ventana diferente de chrome, donde chrome le indicara que esta siendo utilizado por un software de pruebas.
+Cada prueba es ejecutada en una ventana diferente del navegador Google Chrome. Este navegador le indicará que está siendo utilizado por un software de pruebas.
 
 ![image](https://user-images.githubusercontent.com/44983658/88110380-1e1eb900-cb7a-11ea-8300-4ffd330c8459.png)
 
 
-al finalizar la prueba, podra ver algo asi:
+Al finalizar la prueba, podra ver algo asi:
 
 
 
