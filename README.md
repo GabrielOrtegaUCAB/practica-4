@@ -2,7 +2,7 @@
 
 # Autores
 
-  ![image](https://avatars0.githubusercontent.com/u/44983658?v=4)
+  ![image](https://avatars0.githubusercontent.com/u/44983658?v=4?size=200)
    https://avatars.githubusercontent.com/u/GabrielOrtegaUCAB
   Andrea Da Silva.
 
