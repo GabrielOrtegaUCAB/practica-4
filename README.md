@@ -2,9 +2,9 @@
 
 # Autores
 
-  ## Angel Sucasas.
-  ## Gabriel Ortega.
-  ## Andrea Da Silva.
+  Angel Sucasas.
+  Gabriel Ortega.
+  Andrea Da Silva.
 
 # Buhocenter ![npm](https://img.shields.io/badge/node-v8.12.0-green) 
 
