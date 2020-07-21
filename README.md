@@ -2,8 +2,8 @@
 
 # Autores
 
-  Angel Sucasas.
-  Gabriel Ortega.
+  https://avatars0.githubusercontent.com/u/44983658?v=4
+  https://avatars0.githubusercontent.com/u/45984532?v=4
   Andrea Da Silva.
 
 # Buhocenter ![npm](https://img.shields.io/badge/node-v8.12.0-green) 
