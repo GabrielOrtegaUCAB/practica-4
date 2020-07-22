@@ -34,7 +34,7 @@ Al finalizar la prueba, podra ver algo asi:
 ![image](https://github.com/GabrielOrtegaUCAB.png?size=50)
 ![image](https://github.com/angelsucasas.png?size=50)
 ![image](https://github.com/avdasilvab25.png?size=50)
-  
+
+[Gabriel Ortega](mailto:geortega.17@est.ucab.edu.ve)
 [Ángel Sucasas](mailto:aasucasas.17@est.ucab.edu.ve)
 [Andrea Da Silva](mailto:avdasilvab.17@est.ucab.edu.ve)
-[Gabriel Ortega](mailto:geortega.17@est.ucab.edu.ve)
