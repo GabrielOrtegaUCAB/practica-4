@@ -1,4 +1,4 @@
-# Actividad 4 - Desarrollo de Software ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
+# Actividad 4 - Plan de Pruebas ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
 
 ![Logo-completo](https://user-images.githubusercontent.com/44983658/82739421-64d46c00-9d0d-11ea-87ea-c8c1d27f2a21.png)
 
@@ -25,7 +25,7 @@ Cada prueba es ejecutada en una ventana diferente del navegador Google Chrome. E
 ![image](https://user-images.githubusercontent.com/44983658/88110380-1e1eb900-cb7a-11ea-8300-4ffd330c8459.png)
 
 
-Al finalizar la prueba, podra ver algo asi:
+Al finalizar la ejecución de las pruebas, podrá ver algo así:
 
 ![image](https://user-images.githubusercontent.com/44983658/88122625-19b4c900-cb97-11ea-988b-34cfb2b84dce.png)
 
