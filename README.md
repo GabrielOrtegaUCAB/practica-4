@@ -35,6 +35,7 @@ Cada prueba es ejecutada en una ventana diferente del navegador Google Chrome. E
 
 Al finalizar la prueba, podra ver algo asi:
 
+![image](https://user-images.githubusercontent.com/44983658/88122625-19b4c900-cb97-11ea-988b-34cfb2b84dce.png)
 
 
 ## MIT © 
