@@ -26,16 +26,12 @@ describe('TC-0005', function() {
         await driver.findElement(By.xpath("//div[@id=\'inspire\']/div/div/main/div/main/div/div/div/div/form/div[4]/div/div/div/div/input")).click()
         await driver.findElement(By.xpath("//div[@id=\'inspire\']/div/div/main/div/main/div/div/div/div/form/div[4]/div/div/div/div/input")).sendKeys("123456")
         await driver.findElement(By.css(".login100-form-btn")).click()
-        await driver.wait(until.elementLocated(By.css(".pr-4 .v-icon")), 30000)
-        await driver.navigate().refresh();
+        await driver.wait(until.elementLocated(By.css(".pr-4 .v-icon")), 30000)        
         await driver.manage().window().maximize();
         await driver.findElement(By.css(".pr-4 .v-icon")).click()
         await driver.wait(until.elementLocated(By.css(".col-lg-4 > .v-btn--outlined > .v-btn__content")), 30000)
         await driver.findElement(By.css(".col-lg-4 > .v-btn--outlined > .v-btn__content")).click()
         await driver.wait(until.elementLocated(By.css(".ml-3")), 30000)
-        await driver.findElement(By.css(".ml-3")).click()
-        await driver.wait(until.elementLocated(By.css(".text-xs-center .v-btn__content")), 30000)
-        await driver.findElement(By.css(".text-xs-center .v-btn__content")).click()
-        await driver.findElement(By.css(".v-btn--contained:nth-child(2) > .v-btn__content")).click()
+        await driver.findElement(By.css(".ml-3")).click()        
     })
 })

@@ -29,5 +29,10 @@ describe('TC-0001', function() {
         await driver.findElement(By.css(".v-list-item.v-list-item--link.theme--light:nth-child(1) > .v-list-item__content")).click()
         await driver.wait(until.elementLocated(By.css(".overline .v-btn__content")), 30000)
         await driver.findElement(By.css(".overline .v-btn__content")).click()
+        await driver.wait(until.elementLocated(By.css(".login100-form-btn")), 30000)
+        {
+          const elements = await driver.findElements(By.css(".login100-form-btn"))
+          assert(elements.length)
+        }
     })
 })
