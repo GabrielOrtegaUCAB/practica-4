@@ -1,4 +1,4 @@
-# Actividad 4 - Desarrollo de Software
+# Actividad 4 - Desarrollo de Software ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
 
 # Autores
 
@@ -6,7 +6,7 @@
   ![image](https://github.com/angelsucasas.png?size=50)
    ![image](https://github.com/avdasilvab25.png?size=50)  
 
-# Buhocenter ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
+
 
 ![Logo-completo](https://user-images.githubusercontent.com/44983658/82739421-64d46c00-9d0d-11ea-87ea-c8c1d27f2a21.png)
 
