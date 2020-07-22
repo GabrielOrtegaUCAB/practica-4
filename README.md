@@ -1,13 +1,5 @@
 # Actividad 4 - Desarrollo de Software ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
 
-# Autores
-
-  ![image](https://github.com/GabrielOrtegaUCAB.png?size=50)
-  ![image](https://github.com/angelsucasas.png?size=50)
-   ![image](https://github.com/avdasilvab25.png?size=50)  
-
------------------------
-
 ![Logo-completo](https://user-images.githubusercontent.com/44983658/82739421-64d46c00-9d0d-11ea-87ea-c8c1d27f2a21.png)
 
 ## Suite de Pruebas
@@ -39,7 +31,10 @@ Al finalizar la prueba, podra ver algo asi:
 
 
 ## MIT © 
-
+![image](https://github.com/GabrielOrtegaUCAB.png?size=50)
+![image](https://github.com/angelsucasas.png?size=50)
+![image](https://github.com/avdasilvab25.png?size=50)
+  
 [Ángel Sucasas](mailto:aasucasas.17@est.ucab.edu.ve)
 [Andrea Da Silva](mailto:avdasilvab.17@est.ucab.edu.ve)
 [Gabriel Ortega](mailto:geortega.17@est.ucab.edu.ve)
