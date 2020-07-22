@@ -2,11 +2,11 @@
 
 # Autores
 
-  ![image](https://avatars0.githubusercontent.com/u/44983658?v=4?size=10)
+  ![image](https://github.com/GabrielOrtegaUCAB.png?size=10)
    https://avatars.githubusercontent.com/u/GabrielOrtegaUCAB
   Andrea Da Silva.
 
-# Buhocenter ![npm](https://img.shields.io/badge/node-v8.12.0-green) # Buhocenter ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
+# Buhocenter ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
 
 ![Logo-completo](https://user-images.githubusercontent.com/44983658/82739421-64d46c00-9d0d-11ea-87ea-c8c1d27f2a21.png)
 
