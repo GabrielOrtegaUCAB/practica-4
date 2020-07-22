@@ -4,7 +4,7 @@
 
   ![image](https://github.com/GabrielOrtegaUCAB.png?size=50)
   ![image](https://github.com/angelsucasas.png?size=50)
-   ![image](https://github.com/angelsucasas.png?size=50)
+   ![image](https://github.com/avdasilvab25.png?size=50)
   Andrea Da Silva.
 
 # Buhocenter ![npm](https://img.shields.io/badge/node-v8.12.0-green) ![npm](https://img.shields.io/badge/chrome-v13.0-yellow) ![npm](https://img.shields.io/badge/jest-v26.1-orange) 
